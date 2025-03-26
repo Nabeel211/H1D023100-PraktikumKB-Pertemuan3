@@ -1,4 +1,4 @@
-rogram ini adalah kalkulator diskon sederhana yang menghitung harga akhir barang setelah diskon diterapkan berdasarkan kategori pelanggan.
+program ini adalah kalkulator diskon sederhana yang menghitung harga akhir barang setelah diskon diterapkan berdasarkan kategori pelanggan.
 
 Cara Kerja Program:
 Pengguna memasukkan harga barang (misalnya, Rp100.000).
